@@ -1,13 +1,13 @@
 I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of the following:
 
-| Basics     | Scripting & Languages | Frameworks | Datbases | Other |
-|-----------:|----------------------:|-----------:|---------:|------:|
-| HTML       | PHP                   | Tailwind   | MySQL    | API   |
-| CSS        | Python                | AlpineJS   | Redis    | SSL   |
-| Javescript |                       | Laravel    |          | SSH   |
-|            |                       | Livewire   |          | FTP   |
-|            |                       | Slim 3     |          | SFTP  |
-|            |                       | Twig       |          | cURL  |
+| Basics     | Scripting & Languages | Frameworks |Operating Systems |Web Servers | Datbases | Other |
+|-----------:|----------------------:|-----------:|------------------|------------|---------:|------:|
+| HTML       | PHP                   | Tailwind   | Ubuntu (Linux)   | Apach      | MySQL     | API  |
+| CSS        | Python                | AlpineJS   | Debian (Linux)   | Nginx      | Redis     | SSL  |
+| Javescript |                       | Laravel    | IIS              |            | SSH       |      |
+|            |                       | Livewire   |                  |            | FTP       |      |
+|            |                       | Slim 3     |                  |            | SFTP      |      |
+|            |                       | Twig       |                  |            | cURL      |      |
 
 I liked to work on novel ideas and with the size of some of my projects, I had to start using github to handle them effectively. All my repositorys are private unless they have been forked or are tutorials from other repositories. 
 
