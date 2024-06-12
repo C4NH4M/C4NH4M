@@ -9,7 +9,7 @@ I've been interested software and computing for many years but my profession is 
 |            |                       | Slim 3     |                  |            |           | SFTP |
 |            |                       | Twig       |                  |            |           | cURL |
 
-I like to work on novel ideas and with the size of some of my projects, I had to start using github to handle them effectively. All my repositorys are private unless they have been forked or are tutorials from other repositories, for now.
+I like to work on novel ideas and with the size of some of my projects, I had to start using github to handle them effectively. All my repositories are private unless they have been forked or are tutorials from other repositories, for now.
 
 I Finally got around to using Github...
 
