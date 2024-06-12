@@ -8,13 +8,20 @@ I've been interested software and computing for many years but my profession is 
 - Javascript
 
 **Scripting Languages**
--PHP
+- PHP
+- Python
 
 **Frameworks**
 - Laravel
 - Tailwind
 - Livewire
 - Alpine
+- Slim 3
+- Twig
+
+  **Databases**
+  - MySQL
+  - Redis
 
 <!--
 **C4NH4M/C4NH4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
