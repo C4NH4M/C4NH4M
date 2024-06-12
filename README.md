@@ -2,14 +2,14 @@
 
 I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of The following:
 
-| Basics     | Scripting Languages | Frameworks | Datbases |
-|-----------:|--------------------:|-----------:|---------:|
-| HTML       | PHP                 | Tailwind   | MySQL    |
-| CSS        | Python              | AlpineJS   | Redis    |
-| Javescript |                     | Laravel    |          |
-|            |                     | Livewire   |          |
-|            |                     | Slim 3     |          |
-|            |                     | Twig       |          |
+| Basics     | Scripting & Languages | Frameworks | Datbases | Other |
+|-----------:|----------------------:|-----------:|---------:|------:|
+| HTML       | PHP                   | Tailwind   | MySQL    | API   |
+| CSS        | Python                | AlpineJS   | Redis    | SSL   |
+| Javescript |                       | Laravel    |          | SSH   |
+|            |                       | Livewire   |          | FTP   |
+|            |                       | Slim 3     |          | SFTP  |
+|            |                       | Twig       |          | cURL  |
 
 Finally got around to using Github...
 
