@@ -1,4 +1,4 @@
-I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of The following:
+I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of the following:
 
 | Basics     | Scripting & Languages | Frameworks | Datbases | Other |
 |-----------:|----------------------:|-----------:|---------:|------:|
@@ -9,7 +9,9 @@ I've been interested software and computing for many years but my profession is 
 |            |                       | Slim 3     |          | SFTP  |
 |            |                       | Twig       |          | cURL  |
 
-Finally got around to using Github...
+I liked to work on novel ideas and with the size of some of my projects, I had to start using github to handle them effectively. All my repositorys are private unless they have been forked or are tutorials from other repositories. 
+
+I Finally got around to using Github...
 
 <!--
 **C4NH4M/C4NH4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
