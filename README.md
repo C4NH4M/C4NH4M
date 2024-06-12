@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (awaiting the haters) with night schooling way back when. Have an understandings of The following:
+I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of The following:
 
 | Basics     | Scripting Languages | Frameworks | Datbases |
 |-----------:|--------------------:|-----------:|---------:|
@@ -10,6 +10,8 @@ I've been interested software and computing for many years but my profession is 
 |            |                     | Livewire   |          |
 |            |                     | Slim 3     |          |
 |            |                     | Twig       |          |
+
+Finally got around to using Github...
 
 <!--
 **C4NH4M/C4NH4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
