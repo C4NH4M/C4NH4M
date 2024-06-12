@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of The following:
 
 | Basics     | Scripting & Languages | Frameworks | Datbases | Other |
