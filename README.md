@@ -1,7 +1,7 @@
 I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (Sorry about that!) with night schooling way back when. Have an understandings of the following:
 
 | Basics     | Scripting & Languages | Frameworks |Operating Systems |Web Servers | Datbases | Other |
-|-----------:|----------------------:|-----------:|------------------|------------|---------:|------:|
+|-----------:|----------------------:|-----------:|-----------------:|-----------:|---------:|------:|
 | HTML       | PHP                   | Tailwind   | Ubuntu (Linux)   | Apach      | MySQL     | API  |
 | CSS        | Python                | AlpineJS   | Debian (Linux)   | Nginx      | Redis     | SSL  |
 | Javescript |                       | Laravel    | Windows          | IIS        |           | SSH  |
