@@ -2,8 +2,8 @@ I've been interested software and computing for many years but my profession is 
 
 | Basics     | Scripting & Languages | Frameworks |Operating Systems |Web Servers | Datbases | Other |
 |-----------:|----------------------:|-----------:|-----------------:|-----------:|---------:|------:|
-| HTML       | PHP                   | Tailwind   | Ubuntu (Linux)   | Apach      | MySQL     | API  |
-| CSS        | Python                | AlpineJS   | Debian (Linux)   | Nginx      | Redis     | SSL  |
+| HTML       | PHP                   | Tailwind   | Ubuntu           | Apach      | MySQL     | API  |
+| CSS        | Python                | AlpineJS   | Debian           | Nginx      | Redis     | SSL  |
 | Javescript |                       | Laravel    | Windows          | IIS        |           | SSH  |
 |            |                       | Livewire   |                  |            |           | FTP  |
 |            |                       | Slim 3     |                  |            |           | SFTP |
