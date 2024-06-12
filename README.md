@@ -5,9 +5,9 @@ I've been interested software and computing for many years but my profession is 
 | HTML       | PHP                   | Tailwind   | Ubuntu           | Apach      | MySQL     | API  |
 | CSS        | Python                | AlpineJS   | Debian           | Nginx      | Redis     | SSL  |
 | Javescript |                       | Laravel    | Windows          | IIS        |           | SSH  |
-|            |                       | Livewire   |                  |            |           | FTP  |
-|            |                       | Slim 3     |                  |            |           | SFTP |
-|            |                       | Twig       |                  |            |           | cURL |
+|            |                       | Livewire   |                  | Xampp      |           | FTP  |
+|            |                       | Slim 3     |                  | LAMP       |           | SFTP |
+|            |                       | Twig       |                  | LEMP       |           | cURL |
 
 I like to work on novel ideas and with the size of some of my projects, I had to start using github to handle them effectively. All my repositories are private unless they have been forked or are tutorials from other repositories, for now.
 
