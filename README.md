@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (awaiting the haters) with limited night schooling way back when. Have basic understandings of:
+
+**Basics**
+- HTML
+- CSS
+- Javascript
+
+**Scripting Languages**
+-PHP
+
+**Frameworks**
+- Laravel
+- Tailwind
+- Livewire
+- Alpine
+
 <!--
 **C4NH4M/C4NH4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
