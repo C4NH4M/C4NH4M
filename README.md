@@ -1,32 +1,15 @@
 ## Hi there 👋
 
-I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (awaiting the haters) with limited night schooling way back when. Have an understandings of The following:
+I've been interested software and computing for many years but my profession is outside of this world. _Selft taught_ (awaiting the haters) with night schooling way back when. Have an understandings of The following:
 
-| Basics | Scripting Languages | Frameworks | Datbases |
-|-------:|--------------------:|-----------:|----------|
-| - HTML | - PHP               | Laravel    | MySQL    |
-
-
-**Basics**
-- HTML
-- CSS
-- Javascript
-
-**Scripting Languages**
-- PHP
-- Python
-
-**Frameworks**
-- Laravel
-- Tailwind
-- Livewire
-- Alpine
-- Slim 3
-- Twig
-
-**Databases**
- - MySQL
- - Redis
+| Basics     | Scripting Languages | Frameworks | Datbases |
+|-----------:|--------------------:|-----------:|----------|
+| HTML       | PHP                 | Tailwind   | MySQL    |
+| CSS        | Python              | AlpineJS   | Redis    |
+| Javescript |                     | Laravel    |          |
+|            |                     | Livewire   |          |
+|            |                     | Slim 3     |          |
+|            |                     | Twig       |          |
 
 <!--
 **C4NH4M/C4NH4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
