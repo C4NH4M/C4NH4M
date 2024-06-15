@@ -4,7 +4,7 @@ I've been interested software and computing for many years but my profession is 
 |-----------:|----------------------:|-----------:|-----------------:|-----------:|---------:|------:|
 | HTML       | PHP                   | Tailwind   | Ubuntu           | Apach      | MySQL     | API  |
 | CSS        | Python                | AlpineJS   | Debian           | Nginx      | Redis     | SSL  |
-| Javascript |                       | Laravel    | Windows          | IIS        |           | SSH  |
+| Javascript |                       | Laravel    | Windows          | IIS        | PhpMyadmin| SSH  |
 |            |                       | Livewire   |                  | Xampp      |           | FTP  |
 |            |                       | Slim 3     |                  | LAMP       |           | SFTP |
 |            |                       | Twig       |                  | LEMP       |           | cURL |
